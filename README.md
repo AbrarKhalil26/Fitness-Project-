@@ -53,4 +53,4 @@ This application enables users to:
 5. Open in browser at `http://localhost:3000`  
 
 ### 🎨 Design Preview
-![Fitness App](https://github.com/AbrarKhalil26/YouTube-Project/raw/main/public/design/design.png)
+![Fitness App](https://github.com/AbrarKhalil26/Fitness-Project/raw/main/public/design/design.png)
